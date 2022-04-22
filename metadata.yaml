@@ -1,11 +1,16 @@
 _repo: Don-Miguel-Lehumada-discoverer-of-liquid-from-the-sun-s-rays-an-occult-romance-of-Mexico-and-__67753
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67753-h/images/cover.jpg
 creator:
   author:
     agent_name: Greenleaf, Sue
     gutenberg_agent_id: '54438'
     url: http://www.gutenberg.org/2009/agents/54438
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67753#Don-Miguel-Lehumada-discoverer-of-liquid-from-the-sun-s-rays-an-occult-romance-of-Mexico-and-_
 gutenberg_issued: '2022-04-01'
 identifiers:
   gutenberg: '67753'
